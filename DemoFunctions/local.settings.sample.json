@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+
+    "BlobConnection": "",
+    "ImageResizeWidth": 100,
+    "ImageResizeHeight": 100
+  }
+}
